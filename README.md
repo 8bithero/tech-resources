@@ -1,8 +1,8 @@
 # Tech Resources
 
 ### Contents
-* [Algorithms](#algorithms)
 * [Databases](#databases)
+* [Data Structures & Algorithms](#data-structures--algorithms)
 * [Docker](#docker)
 * [General](#general)
 * [Git](#git)
@@ -11,13 +11,16 @@
 * [Teams & Culture](#teams--culture)
 * [UI / UX](#ui--ux)
 
-#### Algorithms
-* [IDEA - nonverbal algorithm assembly instructions](https://idea-instructions.com/) [SITE] by ** IDEA instruction **
-* [Sorting Algorithm Cheat Sheet](https://www.interviewcake.com/sorting-algorithm-cheat-sheet) [ARTICLE] by ** Interview Cake **
+---
 
 #### Databases
 * [How database B-tree indexing works](https://dzone.com/articles/database-btree-indexing-in-sqlite) [Article] by ** Dhanushka Madushan ** (2019)
 * [Say NO to Venn Diagrams When Explaining JOINs](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/) [ARTICLE] BY ** Luka Seder ** (2016)
+
+#### Data Structures & Algorithms
+* [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript#installation) [REPOSITORY] by ** Adrian Mejia ** (2019)
+* [IDEA - nonverbal algorithm assembly instructions](https://idea-instructions.com/) [SITE] by ** IDEA instruction **
+* [Sorting Algorithm Cheat Sheet](https://www.interviewcake.com/sorting-algorithm-cheat-sheet) [ARTICLE] by ** Interview Cake **
 
 #### Docker
 * [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/) [ARTICLE] by ** Tibor Vass ** (2019)
